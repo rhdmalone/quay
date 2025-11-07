@@ -259,7 +259,7 @@ pathspec==0.11.2 \
     # via
     #   -r requirements-build.in
     #   hatchling
-pbr==7.0.1 \
+pbr==7.0.3 \
     --hash=sha256:32df5156fbeccb6f8a858d1ebc4e465dcf47d6cc7a4895d5df9aa951c712fc35 \
     --hash=sha256:3ecbcb11d2b8551588ec816b3756b1eb4394186c3b689b17e04850dfc20f7e57
     # via -r requirements-build.in
